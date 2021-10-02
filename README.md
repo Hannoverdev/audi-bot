@@ -1,2 +1,4 @@
 # audi-bot
-audi bot escrito en java
+Bot para discord escrito en js
+para instalarlo:
+apt-get install node, apt-get install npm, npm i discord.js.
