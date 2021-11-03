@@ -57,5 +57,5 @@ client.on('message', msg => {
 });
 
 
-const token = 'ODcxMzEwMDIwNTYwNzE1ODA2.YQZcsQ.sbx9qnfBTk3ub70Ywo9hXn3gA90';
+const token = 'key';
 client.login(token);
