@@ -57,5 +57,5 @@ client.on('message', msg => {
 });
 
 
-const token = 'key';
+const token = 'token-discord';
 client.login(token);
